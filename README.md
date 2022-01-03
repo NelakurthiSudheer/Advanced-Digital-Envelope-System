@@ -7,4 +7,6 @@ It uses two types of encryption scheme to secure a message.
 -  But the original digital envelope system cannot provide the features of the data authentication and data integrity.
 -  By using a hash algorithm, these features can be obtained.
 -  This is the demonstration of the advanced digital envelope system by using AES (Advanced Encryption Standard) as symmetric algorithm, RSA as asymmetric algorithm and SHA-256 as hash algorithm.
--  This system is developed by using Python3.
+-  This system is developed by using Python3.<br>
+This Application helps you to encrypt and decrypt the envelope which is a text file with better grapgical user interface.
+NOTE: Use the same keys to decrypt the envelope which are generated while encypting the envelope
