@@ -1,6 +1,6 @@
 # Advanced-Digital-Envelope-System
 Advanced Digital Envelope System Using Cryptography Encryption Techniques 
-The digital envelope system is the technique that is used to protect the message through encryption.<br>
+The digital envelope system is the technique which is used to protect the message through encryption.<br>
 It uses two types of encryption scheme to secure a message.
 
 -  First, the message itself is encoded using symmetric encryption and then the session key is also encrypted using public-key encryption.
